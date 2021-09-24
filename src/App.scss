@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+/* unvisited link */
+*:link {
+  color: rgb(23, 49, 100);
+  text-decoration:none;
+}
+
+/* visited link */
+*:visited {
+  color: green;
+  text-decoration:none;
+}
+
+/* selected link */
+*:active {
+  color: blue;
+  text-decoration:none;
+}
